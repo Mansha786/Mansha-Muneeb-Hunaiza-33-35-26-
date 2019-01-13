@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CAB</string>
+    <string name="i_m_a_customer">I\'m a customer</string>
+    <string name="customer_login">Customer Login</string>
+    <string name="email">Email...</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account</string>
+    <string name="button">Button</string>
+    <string name="register">Register</string>
+    <string name="title_activity_customers_map">Map</string>
+    <string name="logout">Logout</string>
+    <string name="setting">Setting</string>
+    <string name="Logout">Logout</string>
+    <string name="call_a_car">Call A Car</string>
+</resources>
